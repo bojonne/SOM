@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/share/!svn/ver/215/som/trunk/src/jp/ac/yamanalab/som/basic
+END
+EuclideanMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/EuclideanMeasure.java
+END
+Measure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/Measure.java
+END
+SimpleLearingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/SimpleLearingFunction.java
+END
+DataVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/DataVector.java
+END
+Coordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/Coordinate.java
+END
+LearningFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/share/!svn/ver/214/som/trunk/src/jp/ac/yamanalab/som/basic/LearningFunction.java
+END
